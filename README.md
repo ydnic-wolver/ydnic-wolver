@@ -8,7 +8,7 @@
 -----------
 - 🐏 I’m currently learning a lot of things 
 - 💚 I have a passion for programming and graphic design.
--  ⚡ Fun fact: I love sharing with people x) 
+-  ⚡ Fun fact: I love sharing with people 🍚 
 - 😽 I’m looking to collaborate with other developers
 
 
