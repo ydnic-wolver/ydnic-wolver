@@ -1,5 +1,5 @@
 <p  align="center">
-  <img src="https://i.imgur.com/GYVFfRX.png" width="450px">
+  <img src="#" width="450px">
 </p>
 
 ## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cindy
